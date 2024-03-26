@@ -52,7 +52,8 @@ Así es cómo se estructuraría los datos en Firebase:
 
 **Incidencias:**
 
-![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/043a77b9-ed43-4e10-884e-00dc55ac8a67)
+![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/e3f27184-7734-42b6-9d8a-f293d6292379)
+
 
 **Chat:**
 
