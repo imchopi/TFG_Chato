@@ -47,7 +47,8 @@ Así es cómo se estructuraría los datos en Firebase:
 
 **Usuarios:**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f98665e1-319f-45b7-b337-30b183f38826/674becb1-a7c7-464b-a681-325b7ad46ceb/Untitled.png)
+![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/03b767a9-c94e-4a82-80c2-3bafd3d1df8e)
+
 
 **Incidencias:**
 
