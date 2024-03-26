@@ -34,11 +34,11 @@ Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una
 
 - **Móvil**
     - **Backend:** Firebase.
-    - **Frontend:** Kotlin.
+    - **Frontend:** Android & Kotlin.
 
 - **Web**
     - **Backend:** Firebase.
-    - **Frontend:** Angular (con todas las librerías necesarios para los estilos) e Ionic.
+    - **Frontend:** Angular & Ionic (Typescript).
     
 
 # Estructura de datos
