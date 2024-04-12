@@ -29,7 +29,7 @@ Nuestro proyecto se basará en una aplicación enfocada en las incidencias de un
 
 # Objetivos del proyecto
 
-Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una aplicación de incidencias, para que el usuario pueda enviar la incidencia al administrador y este resolverla. También mediante la ayuda de otras incidencias realizadas por otros usuarios, las cuales podrán filtrar por categoría, consiga solucionar el problema sin necesidad de enviar una incidencia, incitando a los usuarios a crear un espacio de autoayuda.
+Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una aplicación de incidencias, para que el usuario pueda enviar la incidencia al administrador y este resolverla. También mediante las categorías, tanto el usuario como el adminsitrador, tendrá mas claro el tipo de problema para resolver la incidencia con mayor facilidad.
 
 # Tecnologías utilizadas
 
