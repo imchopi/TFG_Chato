@@ -52,5 +52,6 @@ La estrategia que seguiremos:
 - Estrategia 3: Documentos Denormalizados
     - Usaremos esta estrategia para los documentos de incidentsInfo y chatInfo ya que necesitaremos mezclar datos de ambos documentos, así conseguiremos con una consulta, extraer toda la información.
 
-![image](https://github.com/imchopi/TFG_Chato/assets/92975232/94c70423-de62-4699-9de9-c15c00ceab95)
+![image](https://github.com/imchopi/TFG_Chato/assets/92975232/fdea5a10-068f-4f86-9f45-98feb1053618)
+
 
