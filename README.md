@@ -22,7 +22,6 @@ Nuestro proyecto se basará en una aplicación enfocada en las incidencias de un
 
 - **USUARIOS**
     - Gestión de su propio perfil.
-    - Visualicación de todas las incidencias.
     - Visualización de sus incidencias.
     - Creación de incidencias.
     - Filtrado por categoría de las incidencias.
