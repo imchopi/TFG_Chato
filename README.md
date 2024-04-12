@@ -43,18 +43,12 @@ Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una
 
 # Estructura de datos
 
-Así es cómo se estructuraría los datos en Firebase:
+La estrategia que seguiremos:
 
-**Usuarios:**
+- Estrategia 1: Colecciones separadas
+    - Con esta estrategía pretendemos englobar toda la información en un documento →  colección userInfo
+    - Así conseguimos tener los datos almacenados tanto para ver los usuarios con mayor claridad y realizar algún cambio en el futuro en caso de querer modificar un usuario.
+- Estrategia 3: Documentos Denormalizados
+    - Usaremos esta estrategia para los documentos de incidentsInfo y chatInfo ya que necesitaremos mezclar datos de ambos documentos, así conseguiremso con una consulta, extraer toda la información.
 
-![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/03b767a9-c94e-4a82-80c2-3bafd3d1df8e)
-
-
-**Incidencias:**
-
-![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/e3f27184-7734-42b6-9d8a-f293d6292379)
-
-
-**Chat:**
-
-![Untitled](https://github.com/imchopi/TFG_Chato/assets/92975232/3ad625b2-dbfb-47f6-b599-1ef991a8416c)
+![image](https://github.com/imchopi/TFG_Chato/assets/92975232/8148a595-1e41-42da-8fe7-f69c63cbf570)
