@@ -49,6 +49,6 @@ La estrategia que seguiremos:
     - Con esta estrategía pretendemos englobar toda la información en un documento →  colección userInfo
     - Así conseguimos tener los datos almacenados tanto para ver los usuarios con mayor claridad y realizar algún cambio en el futuro en caso de querer modificar un usuario.
 - Estrategia 3: Documentos Denormalizados
-    - Usaremos esta estrategia para los documentos de incidentsInfo y chatInfo ya que necesitaremos mezclar datos de ambos documentos, así conseguiremso con una consulta, extraer toda la información.
+    - Usaremos esta estrategia para los documentos de incidentsInfo y chatInfo ya que necesitaremos mezclar datos de ambos documentos, así conseguiremos con una consulta, extraer toda la información.
 
 ![image](https://github.com/imchopi/TFG_Chato/assets/92975232/8148a595-1e41-42da-8fe7-f69c63cbf570)
