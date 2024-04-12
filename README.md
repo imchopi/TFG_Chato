@@ -51,7 +51,8 @@ La estrategia que seguiremos:
 - Estrategia 3: Documentos Denormalizados
     - Usaremos esta estrategia para los documentos de incidentsInfo y categoryInfo ya que necesitaremos mezclar datos de ambos documentos, así conseguiremos con una consulta, extraer toda la información.
 
-![image](https://github.com/imchopi/TFG_Chato/assets/92975232/608d4a8a-8867-4cc7-a70a-d591f8a4f512)
+![image](https://github.com/imchopi/TFG_Chato/assets/92975232/c8267ed9-6506-4982-bb0d-53ebaacd0a4d)
+
 
 
 
