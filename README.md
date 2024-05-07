@@ -10,6 +10,7 @@ Chato
 
 - Javier Miguel Martín Gallardo, se enfocará en la parte de Angular e Ionic
 - Adrián Perogil Fernández, hará la parte de Android
+[Enlace del repositorio de Adrián](https://github.com/imchopi/TFG_Chato_Android)
 
 # Descripción
 
