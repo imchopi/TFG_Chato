@@ -60,27 +60,27 @@ La estrategia que seguiremos:
 Adrián - Android
 
 Tareas realizadas y cambios
-Previamente reciclé parte de un proyecto que hice de un Parking, con lo cual algunas tareas estaban pendientes de modificar más que de hacer desde cero.
+- Página de bienvenida (18 de Abril)
+- Registro → Por correo (18 de Abril)
+- Login → Por correo (18 de Abril)
+- Página de incidencias (19 de Abril)
+- Listado de incidencias (22 de Abril)
+- Detalles de incidencias (23 de Abril)
+- Añadir incidencias (24/25/26 de Abril)
+- Cámara (29 de Abril)
+- Galería (30 de Abril)
+- Diseño (1/2/3/6/7 de Mayo)
 
-Página de bienvenida (18 de Abril)
-Registro → Por correo (18 de Abril)
-Login → Por correo (18 de Abril)
-Página de incidencias (19 de Abril)
-Listado de incidencias (22 de Abril)
-Detalles de incidencias (23 de Abril)
-Añadir incidencias (24/25/26 de Abril)
-Cámara (29 de Abril)
-Galería (30 de Abril)
-Diseño (1/2/3/6/7 de Mayo)
-Tareas pendientes por hacer
-Mostrar detalles del usuario en el menú
-Modo offline con Room
-Comprobación de inputs en el registro
+Tareas pendientes por hacer  
+- Mostrar detalles del usuario en el menú
+- Modo offline con Room
+- Comprobación de inputs en el registro
+  
 Tareas realizadas de las pendientes
-Mostrar detalles del usuario en el menú (30 de Mayo)
-Modo offline con Room (25 de Mayo)
-Comprobación de inputs en el registro (4 de Junio)
-Traducción (9 de Junio)
+- Mostrar detalles del usuario en el menú (30 de Mayo)
+- Modo offline con Room (25 de Mayo)
+- Comprobación de inputs en el registro (4 de Junio)
+- Traducción (9 de Junio)
 
 
 
