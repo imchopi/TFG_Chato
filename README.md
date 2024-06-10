@@ -1,7 +1,3 @@
-# Anteproyecto
-
-Created: March 26, 2024 4:01 PM
-
 # Título del proyecto
 
 Chato
