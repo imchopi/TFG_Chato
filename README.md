@@ -84,6 +84,7 @@ Tareas realizadas de las pendientes
 
 </br>
 Javier - Angular
+</br>
 - Día 08/04/2024 -> Ya que no nos han proporcionado el feedback del anteproyecto, he realizado el diseño de la página de Login y la de Registro en Figma. Este diseño es el básico (sin texto, ni colores, etc).
 </br>
 - Día 09/04/2024 -> Hoy he creado el repositorio, añadido todos los servicios principales Autenticación, Traducción). Y he creado la página de Access que contendrá el componente de LogIn y el de Register. He       hecho un pequeño formulario de Login usando Angular Material, aún falta estilo y que pueda hacer Login y registro.
@@ -100,6 +101,15 @@ Javier - Angular
 </br>
 - Día 18/04/2024  He añadido el SplashScreen para que al recargar la página no vaya a Access y después navegue a Home, he usado un lottie para que se vea una animación mientras tanto. También he empezado a crear   el diseño final de la aplicación. Al crear el SplashScreen me ha empezado a dar errores ya que al hacer el deslogueo del usuario, al volver a Access había una capa invisible por encima de la página y se quedaba   inutilizable, lo he arreglando borrando el component de header y pasando todo el header y el menú a app.component.html, aun que creyendo que era el SplashScreen lo he acabado borrando, más adelante lo pondré.
 </br>
+ - Día 19/04/2024 -> Hoy he implementado ya la captura de datos desde Firebase, para obtener los datos de los usuarios logueados en la aplicación, he acabado la estética del menú lateral y he implementado todas    las páginas que incluye dicho menú.
+ </br>
+ - Día 22/04/2024  Hoy he agregado una tabla para poder ver la información de todos los usuarios conectados, también he añadido un tab para ver la información o los datos en forma de gráficas. También he añadido la vista de la información detallada de los usuarios. Y también el update de los usuarios.
+  </br>
+ - Día 23/04/2024 -> Hoy he cambiado la forma en la que tenía el update de los usuarios, ya que no cambiaba correctamente los datos, y al modificar el usuario conectado no se actualizaba el observable de user$. También he estado modificando el menú para añadir la foto del usuario y abajo de dicho menú con la opción de navegar a la página de About. He incluido el contenido de dicha página, incluyendo la información de los repos de Adri y mía.
+   </br>
+- Día 25/04/2024 -> Hoy he avanzado con los diseños de la aplicación en Figma.
+</br>
+
 
 
 
