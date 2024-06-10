@@ -175,7 +175,7 @@ Javier - Angular
 
 # PowerBI
 
+[Enlace de descarga](https://drive.google.com/file/d/1TaO5IVf6zMYF5BTscCssKl2zFcsWGPGu/view?usp=sharing)
+
 ![image](https://github.com/imchopi/TFG_Chato/assets/92975232/5a96df29-c29c-4840-98dc-b15f006fbe4b)
 
-
-[PowerBI](https://drive.google.com/file/d/1TaO5IVf6zMYF5BTscCssKl2zFcsWGPGu/view?usp=sharing)
