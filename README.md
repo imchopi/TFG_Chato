@@ -13,7 +13,7 @@ Chato
 
 - Adrián Perogil Fernández, hará la parte de Android.
     - [Enlace del repositorio de Adrián](https://github.com/imchopi/TFG_Chato_Android)
-    - [Enlace del PDF](https://drive.google.com/file/d/1HC1REzdghT2ATuFOtQQ0A2p1cT9a77J2/view?usp=sharing)
+    - [Enlace del PDF](https://drive.google.com/file/d/1meJjzkxCKsMSveC1OsBSP1WyIDSU3v9_/view?usp=sharing)
 
 # Descripción
 
