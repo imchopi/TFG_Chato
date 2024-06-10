@@ -153,3 +153,7 @@ Javier - Angular
 - **Día 03/06/2024 →** Toda la parte funcional de la app ya estaría hecha, me falta pulir alguna cosa, he acabado todo el diseño en figma, he revisado todos los comentarios y he creado la documentación. También he añadido un botón para ir para atrás en la vista de detalles, la cuál también ha sido añadida a figma. Solo me quedaría el vídeo y subir todas las cosas necesarias a github.
 
 - **Día 10/06/2024 →** Hoy he hecho el vídeo y he acabado todo.
+
+# PowerBI
+
+[PowerBI](https://drive.google.com/file/d/1TaO5IVf6zMYF5BTscCssKl2zFcsWGPGu/view?usp=sharing)
