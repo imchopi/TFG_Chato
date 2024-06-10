@@ -104,6 +104,9 @@ Mejoré la comprobación de inputs en el registro, añadiendo validaciones más 
 - Traducción (9 de Junio)
 Realicé la internacionalización de la aplicación, añadiendo soporte para múltiples idiomas. Implementé archivos de recursos de strings en diferentes idiomas y ajusté el código para que la interfaz se adapte automáticamente según la configuración de idioma del dispositivo.
 
+- PowerBI y fin del proyecto (10 de junio)
+Terminé de realizar el PowerBI de la aplicación y de los últimos retoques del proyecto.
+
 </br>
 Javier - Angular
 </br>
