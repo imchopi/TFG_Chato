@@ -29,7 +29,7 @@ Nuestro proyecto se basará en una aplicación enfocada en las incidencias de un
 
 # Objetivos del proyecto
 
-Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una aplicación de incidencias, para que el usuario pueda enviar la incidencia al administrador y este resolverla. También mediante las categorías, tanto el usuario como el adminsitrador, tendrá mas claro el tipo de problema para resolver la incidencia con mayor facilidad.
+Nuestro objetivo para este proyecto, es poder ayudar a las empresas mediante una aplicación de incidencias, para que el usuario pueda enviar la incidencia al administrador y este resolverla. También mediante las categorías, tanto el usuario como el administrador, tendrá más claro el tipo de problema para resolver la incidencia con mayor facilidad.
 
 # Tecnologías utilizadas
 
@@ -81,6 +81,10 @@ Tareas realizadas de las pendientes
 - Modo offline con Room (25 de Mayo)
 - Comprobación de inputs en el registro (4 de Junio)
 - Traducción (9 de Junio)
+
+Javier - Angular
+- Día 08/04/2024 -> Ya que no nos han proporcionado el feedback del anteproyecto, he realizado el diseño de la página de Login y la de Registro en Figma. Este diseño es el básico (sin texto, ni colores, etc).
+- Día 09/04/2024 -> Hoy he creado el repositorio, añadido todos los servicios principales Autenticación, Traducción). Y he creado la página de Access que contendrá el componente de LogIn y el de Register. He       hecho un pequeño formulario de Login usando Angular Material, aún falta estilo y que pueda hacer Login y registro.
 
 
 
