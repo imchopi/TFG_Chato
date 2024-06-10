@@ -85,7 +85,7 @@ Tareas realizadas de las pendientes
 </br>
 Javier - Angular
 </br>
-- Día 08/04/2024 -> Ya que no nos han proporcionado el feedback del anteproyecto, he realizado el diseño de la página de Login y la de Registro en Figma. Este diseño es el básico (sin texto, ni colores, etc).
+    - Día 08/04/2024 -> Ya que no nos han proporcionado el feedback del anteproyecto, he realizado el diseño de la página de Login y la de Registro en Figma. Este diseño es el básico (sin texto, ni colores, etc).
 </br>
 - Día 09/04/2024 -> Hoy he creado el repositorio, añadido todos los servicios principales Autenticación, Traducción). Y he creado la página de Access que contendrá el componente de LogIn y el de Register. He       hecho un pequeño formulario de Login usando Angular Material, aún falta estilo y que pueda hacer Login y registro.
 </br>
