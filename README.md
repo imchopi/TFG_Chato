@@ -9,11 +9,11 @@ Chato
 # Nombre de los autores y PDF de cada parte
 
 - Javier Miguel Martín Gallardo, se enfocará en la parte de Angular e Ionic.
-- [Enlace del repositorio de Javier](https://github.com/jotaeme890/TFC-Chato-Angular/tree/definitive-tfc)
+    - [Enlace del repositorio de Javier](https://github.com/jotaeme890/TFC-Chato-Angular/tree/definitive-tfc)
 
 - Adrián Perogil Fernández, hará la parte de Android.
-- [Enlace del repositorio de Adrián](https://github.com/imchopi/TFG_Chato_Android)
-- [Enlace del PDF](https://drive.google.com/file/d/1HC1REzdghT2ATuFOtQQ0A2p1cT9a77J2/view?usp=sharing)
+    - [Enlace del repositorio de Adrián](https://github.com/imchopi/TFG_Chato_Android)
+    - [Enlace del PDF](https://drive.google.com/file/d/1HC1REzdghT2ATuFOtQQ0A2p1cT9a77J2/view?usp=sharing)
 
 # Descripción
 
